@@ -1,9 +1,10 @@
+import "./style/style.css";
 function App() {
-  return(
+  return (
     <>
-    {/* Equilibrium #3429 Our Equilibrium collection promotes balance and calm. 0.041 ETH 3 days left Creation of Jules Wyvern */}
+      {/* Equilibrium #3429 Our Equilibrium collection promotes balance and calm. 0.041 ETH 3 days left Creation of Jules Wyvern */}
     </>
-  )
+  );
 }
 
-export default App
+export default App;
