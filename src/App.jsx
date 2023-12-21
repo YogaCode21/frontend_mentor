@@ -1,8 +1,8 @@
 import React from "react";
-import QrCode from "./pages/qr-code/QrCode";
+import QrCode from "./pages/qr-code/QrCode.jsx";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "./pages/home/home";
-import NotFound from "./pages/notfound/NotFound";
+import Home from "./pages/home/home.jsx";
+import NotFound from "./pages/notfound/NotFound.jsx";
 const App = () => {
   return (
     <>
